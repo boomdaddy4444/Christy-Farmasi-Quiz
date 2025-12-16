@@ -1,0 +1,1198 @@
+{
+  "quizzes": [
+    {
+      "category": "nutrition",
+      "skill": "sales",
+      "prompt": "Responsible wellness selling means you should:",
+      "choices": [
+        "Make medical promises and cure claims",
+        "Explain intended benefits, encourage consistency, and suggest consulting a healthcare professional for medical concerns",
+        "Tell people to stop prescribed meds",
+        "Guarantee results in 7 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stay compliant: no disease-treatment claims. Focus on general wellness support and encourage professional guidance for medical concerns.",
+      "productRefs": []
+    },
+    {
+      "category": "skincare",
+      "skill": "sales",
+      "prompt": "Best practice when recommending products is to:",
+      "choices": [
+        "Promise instant results for everyone",
+        "Ask about the customer\u2019s goal and recommend a simple routine they can follow",
+        "Only talk about price",
+        "Use medical cure claims"
+      ],
+      "correctIndex": 1,
+      "explanation": "The strongest selling is routine-based: ask a needs question, recommend 1\u20132 products that fit the goal, and explain simple usage for consistent results.",
+      "productRefs": []
+    },
+    {
+      "category": "skincare",
+      "skill": "sales",
+      "prompt": "A customer says \u201cI\u2019ve tried everything and nothing works.\u201d The best response is:",
+      "choices": [
+        "\u201cThen don\u2019t buy anything.\u201d",
+        "Acknowledge the frustration, reset expectations, and suggest a simple 2\u20133 step routine for 2\u20134 weeks",
+        "Guarantee results in 7 days",
+        "Blame the customer for using products wrong"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acknowledge + simplify. Most routines fail from inconsistency or too many products at once. Recommend a simple routine and a realistic timeframe.",
+      "productRefs": []
+    },
+    {
+      "category": "skincare",
+      "skill": "sales",
+      "prompt": "The best way to cross-sell without sounding pushy is to:",
+      "choices": [
+        "Recommend a complementary product that completes the routine (cleanse \u2192 treat \u2192 moisturize)",
+        "Upsell the most expensive item first",
+        "Offer 5 products at once",
+        "Avoid recommending anything extra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cross-selling works when it makes the routine easier and improves results. Keep it to one logical add-on.",
+      "productRefs": []
+    },
+    {
+      "category": "skincare",
+      "skill": "product",
+      "prompt": "For Prepares your skin for the next steps in your skincare routine. Dr. C. Tuna Cleansing Balm, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Prepares your skin for the next steps in your skincare routine. Dr. C. Tuna Cleansing Balm focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000649"
+      ]
+    },
+    {
+      "category": "skincare",
+      "skill": "sales",
+      "prompt": "A customer asks about Prepares your skin for the next steps in your skincare routine. Dr. C. Tuna Cleansing Balm: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000649"
+      ]
+    },
+    {
+      "category": "skincare",
+      "skill": "product",
+      "prompt": "For Brightens & evens skin tone All Skin Types | All Ages Dr. C. Tuna Lumi Radiance Eye Balm, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Brightens & evens skin tone All Skin Types | All Ages Dr. C. Tuna Lumi Radiance Eye Balm focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000299"
+      ]
+    },
+    {
+      "category": "skincare",
+      "skill": "sales",
+      "prompt": "A customer asks about Brightens & evens skin tone All Skin Types | All Ages Dr. C. Tuna Lumi Radiance Eye Balm: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000299"
+      ]
+    },
+    {
+      "category": "skincare",
+      "skill": "product",
+      "prompt": "For Reverse the signs of aging All Skin Types | Age 35+ Dr. C. Tuna Resurface Hydrasooth Essence, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Reverse the signs of aging All Skin Types | Age 35+ Dr. C. Tuna Resurface Hydrasooth Essence focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000278"
+      ]
+    },
+    {
+      "category": "skincare",
+      "skill": "sales",
+      "prompt": "A customer asks about Reverse the signs of aging All Skin Types | Age 35+ Dr. C. Tuna Resurface Hydrasooth Essence: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000278"
+      ]
+    },
+    {
+      "category": "skincare",
+      "skill": "product",
+      "prompt": "For Control & prevent excess oil Oily to Combination Skin | All ages Dr. C. Tuna Tea Tree Cream Balsam, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Control & prevent excess oil Oily to Combination Skin | All ages Dr. C. Tuna Tea Tree Cream Balsam focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000291"
+      ]
+    },
+    {
+      "category": "skincare",
+      "skill": "sales",
+      "prompt": "A customer asks about Control & prevent excess oil Oily to Combination Skin | All ages Dr. C. Tuna Tea Tree Cream Balsam: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000291"
+      ]
+    },
+    {
+      "category": "skincare",
+      "skill": "product",
+      "prompt": "For Nourishment & moisture Dry Skin | All ages Dr. C. Tuna Calendula Face Cream, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Nourishment & moisture Dry Skin | All ages Dr. C. Tuna Calendula Face Cream focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000285"
+      ]
+    },
+    {
+      "category": "skincare",
+      "skill": "sales",
+      "prompt": "A customer asks about Nourishment & moisture Dry Skin | All ages Dr. C. Tuna Calendula Face Cream: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000285"
+      ]
+    },
+    {
+      "category": "makeup",
+      "skill": "sales",
+      "prompt": "Best practice when recommending products is to:",
+      "choices": [
+        "Promise instant results for everyone",
+        "Ask about the customer\u2019s goal and recommend a simple routine they can follow",
+        "Only talk about price",
+        "Use medical cure claims"
+      ],
+      "correctIndex": 1,
+      "explanation": "The strongest selling is routine-based: ask a needs question, recommend 1\u20132 products that fit the goal, and explain simple usage for consistent results.",
+      "productRefs": []
+    },
+    {
+      "category": "makeup",
+      "skill": "sales",
+      "prompt": "A customer says \u201cI\u2019ve tried everything and nothing works.\u201d The best response is:",
+      "choices": [
+        "\u201cThen don\u2019t buy anything.\u201d",
+        "Acknowledge the frustration, reset expectations, and suggest a simple 2\u20133 step routine for 2\u20134 weeks",
+        "Guarantee results in 7 days",
+        "Blame the customer for using products wrong"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acknowledge + simplify. Most routines fail from inconsistency or too many products at once. Recommend a simple routine and a realistic timeframe.",
+      "productRefs": []
+    },
+    {
+      "category": "makeup",
+      "skill": "sales",
+      "prompt": "The best way to cross-sell without sounding pushy is to:",
+      "choices": [
+        "Recommend a complementary product that completes the routine (cleanse \u2192 treat \u2192 moisturize)",
+        "Upsell the most expensive item first",
+        "Offer 5 products at once",
+        "Avoid recommending anything extra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cross-selling works when it makes the routine easier and improves results. Keep it to one logical add-on.",
+      "productRefs": []
+    },
+    {
+      "category": "makeup",
+      "skill": "product",
+      "prompt": "For Wink shaping definition. Smize Contour Stick Smize, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Wink shaping definition. Smize Contour Stick Smize focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1001710"
+      ]
+    },
+    {
+      "category": "makeup",
+      "skill": "sales",
+      "prompt": "A customer asks about Wink shaping definition. Smize Contour Stick Smize: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1001710"
+      ]
+    },
+    {
+      "category": "makeup",
+      "skill": "product",
+      "prompt": "For Effortless Glow Palette, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Effortless Glow Palette focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1002163"
+      ]
+    },
+    {
+      "category": "makeup",
+      "skill": "sales",
+      "prompt": "A customer asks about Effortless Glow Palette: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1002163"
+      ]
+    },
+    {
+      "category": "makeup",
+      "skill": "product",
+      "prompt": "For All Skin Types. Translucent Setting Powder, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for All Skin Types. Translucent Setting Powder focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1001352"
+      ]
+    },
+    {
+      "category": "makeup",
+      "skill": "sales",
+      "prompt": "A customer asks about All Skin Types. Translucent Setting Powder: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1001352"
+      ]
+    },
+    {
+      "category": "makeup",
+      "skill": "product",
+      "prompt": "For Contour Stick Wink, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Contour Stick Wink focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1001709"
+      ]
+    },
+    {
+      "category": "makeup",
+      "skill": "sales",
+      "prompt": "A customer asks about Contour Stick Wink: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1001709"
+      ]
+    },
+    {
+      "category": "makeup",
+      "skill": "product",
+      "prompt": "For BROW SETTING WAX Brow Setting Wax, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for BROW SETTING WAX Brow Setting Wax focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000930"
+      ]
+    },
+    {
+      "category": "makeup",
+      "skill": "sales",
+      "prompt": "A customer asks about BROW SETTING WAX Brow Setting Wax: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000930"
+      ]
+    },
+    {
+      "category": "nutrition",
+      "skill": "sales",
+      "prompt": "Best practice when recommending products is to:",
+      "choices": [
+        "Promise instant results for everyone",
+        "Ask about the customer\u2019s goal and recommend a simple routine they can follow",
+        "Only talk about price",
+        "Use medical cure claims"
+      ],
+      "correctIndex": 1,
+      "explanation": "The strongest selling is routine-based: ask a needs question, recommend 1\u20132 products that fit the goal, and explain simple usage for consistent results.",
+      "productRefs": []
+    },
+    {
+      "category": "nutrition",
+      "skill": "sales",
+      "prompt": "A customer says \u201cI\u2019ve tried everything and nothing works.\u201d The best response is:",
+      "choices": [
+        "\u201cThen don\u2019t buy anything.\u201d",
+        "Acknowledge the frustration, reset expectations, and suggest a simple 2\u20133 step routine for 2\u20134 weeks",
+        "Guarantee results in 7 days",
+        "Blame the customer for using products wrong"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acknowledge + simplify. Most routines fail from inconsistency or too many products at once. Recommend a simple routine and a realistic timeframe.",
+      "productRefs": []
+    },
+    {
+      "category": "nutrition",
+      "skill": "sales",
+      "prompt": "The best way to cross-sell without sounding pushy is to:",
+      "choices": [
+        "Recommend a complementary product that completes the routine (cleanse \u2192 treat \u2192 moisturize)",
+        "Upsell the most expensive item first",
+        "Offer 5 products at once",
+        "Avoid recommending anything extra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cross-selling works when it makes the routine easier and improves results. Keep it to one logical add-on.",
+      "productRefs": []
+    },
+    {
+      "category": "nutrition",
+      "skill": "product",
+      "prompt": "For HHHHOOOOMMMMEEEE Nutriplus Apple Cider Vinegar NUTRIPLUS RADIANT MIND, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for HHHHOOOOMMMMEEEE Nutriplus Apple Cider Vinegar NUTRIPLUS RADIANT MIND focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1001643"
+      ]
+    },
+    {
+      "category": "nutrition",
+      "skill": "sales",
+      "prompt": "A customer asks about HHHHOOOOMMMMEEEE Nutriplus Apple Cider Vinegar NUTRIPLUS RADIANT MIND: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1001643"
+      ]
+    },
+    {
+      "category": "nutrition",
+      "skill": "product",
+      "prompt": "For HHHHOOOOMMMMEEEE BEAUTY Nutriplus Beauty Booster Collagen, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for HHHHOOOOMMMMEEEE BEAUTY Nutriplus Beauty Booster Collagen focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1001139"
+      ]
+    },
+    {
+      "category": "nutrition",
+      "skill": "sales",
+      "prompt": "A customer asks about HHHHOOOOMMMMEEEE BEAUTY Nutriplus Beauty Booster Collagen: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1001139"
+      ]
+    },
+    {
+      "category": "nutrition",
+      "skill": "product",
+      "prompt": "For HHHHOOOOMMMMEEEE Nutriplus Electrolyte Drink Mix, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for HHHHOOOOMMMMEEEE Nutriplus Electrolyte Drink Mix focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1001768"
+      ]
+    },
+    {
+      "category": "nutrition",
+      "skill": "sales",
+      "prompt": "A customer asks about HHHHOOOOMMMMEEEE Nutriplus Electrolyte Drink Mix: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1001768"
+      ]
+    },
+    {
+      "category": "nutrition",
+      "skill": "product",
+      "prompt": "For HHHHOOOOMMMMEEEE Nutriplus Spirulina, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for HHHHOOOOMMMMEEEE Nutriplus Spirulina focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1001137"
+      ]
+    },
+    {
+      "category": "nutrition",
+      "skill": "sales",
+      "prompt": "A customer asks about HHHHOOOOMMMMEEEE Nutriplus Spirulina: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1001137"
+      ]
+    },
+    {
+      "category": "nutrition",
+      "skill": "product",
+      "prompt": "For Vitamin E Infused. All Skin Types. VFX PRO Illuminating Primer, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Vitamin E Infused. All Skin Types. VFX PRO Illuminating Primer focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1001517"
+      ]
+    },
+    {
+      "category": "nutrition",
+      "skill": "sales",
+      "prompt": "A customer asks about Vitamin E Infused. All Skin Types. VFX PRO Illuminating Primer: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1001517"
+      ]
+    },
+    {
+      "category": "selfcare",
+      "skill": "sales",
+      "prompt": "Best practice when recommending products is to:",
+      "choices": [
+        "Promise instant results for everyone",
+        "Ask about the customer\u2019s goal and recommend a simple routine they can follow",
+        "Only talk about price",
+        "Use medical cure claims"
+      ],
+      "correctIndex": 1,
+      "explanation": "The strongest selling is routine-based: ask a needs question, recommend 1\u20132 products that fit the goal, and explain simple usage for consistent results.",
+      "productRefs": []
+    },
+    {
+      "category": "selfcare",
+      "skill": "sales",
+      "prompt": "A customer says \u201cI\u2019ve tried everything and nothing works.\u201d The best response is:",
+      "choices": [
+        "\u201cThen don\u2019t buy anything.\u201d",
+        "Acknowledge the frustration, reset expectations, and suggest a simple 2\u20133 step routine for 2\u20134 weeks",
+        "Guarantee results in 7 days",
+        "Blame the customer for using products wrong"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acknowledge + simplify. Most routines fail from inconsistency or too many products at once. Recommend a simple routine and a realistic timeframe.",
+      "productRefs": []
+    },
+    {
+      "category": "selfcare",
+      "skill": "sales",
+      "prompt": "The best way to cross-sell without sounding pushy is to:",
+      "choices": [
+        "Recommend a complementary product that completes the routine (cleanse \u2192 treat \u2192 moisturize)",
+        "Upsell the most expensive item first",
+        "Offer 5 products at once",
+        "Avoid recommending anything extra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cross-selling works when it makes the routine easier and improves results. Keep it to one logical add-on.",
+      "productRefs": []
+    },
+    {
+      "category": "selfcare",
+      "skill": "product",
+      "prompt": "For All Body Types Dr. C. Tuna Paprika & Chili Balsam, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for All Body Types Dr. C. Tuna Paprika & Chili Balsam focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000305"
+      ]
+    },
+    {
+      "category": "selfcare",
+      "skill": "sales",
+      "prompt": "A customer asks about All Body Types Dr. C. Tuna Paprika & Chili Balsam: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000305"
+      ]
+    },
+    {
+      "category": "selfcare",
+      "skill": "product",
+      "prompt": "For EUROFRESH Whitening Toothpaste, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for EUROFRESH Whitening Toothpaste focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1001918"
+      ]
+    },
+    {
+      "category": "selfcare",
+      "skill": "sales",
+      "prompt": "A customer asks about EUROFRESH Whitening Toothpaste: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1001918"
+      ]
+    },
+    {
+      "category": "selfcare",
+      "skill": "product",
+      "prompt": "For Pearl Traditional Soap, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Pearl Traditional Soap focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000594"
+      ]
+    },
+    {
+      "category": "selfcare",
+      "skill": "sales",
+      "prompt": "A customer asks about Pearl Traditional Soap: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000594"
+      ]
+    },
+    {
+      "category": "selfcare",
+      "skill": "product",
+      "prompt": "For Traditional Soaps All Skin Types Calendula Soap, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Traditional Soaps All Skin Types Calendula Soap focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000329"
+      ]
+    },
+    {
+      "category": "selfcare",
+      "skill": "sales",
+      "prompt": "A customer asks about Traditional Soaps All Skin Types Calendula Soap: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000329"
+      ]
+    },
+    {
+      "category": "selfcare",
+      "skill": "product",
+      "prompt": "For All Skin Types Masculine Hand Wash, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for All Skin Types Masculine Hand Wash focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1001830"
+      ]
+    },
+    {
+      "category": "selfcare",
+      "skill": "sales",
+      "prompt": "A customer asks about All Skin Types Masculine Hand Wash: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1001830"
+      ]
+    },
+    {
+      "category": "haircare",
+      "skill": "sales",
+      "prompt": "Best practice when recommending products is to:",
+      "choices": [
+        "Promise instant results for everyone",
+        "Ask about the customer\u2019s goal and recommend a simple routine they can follow",
+        "Only talk about price",
+        "Use medical cure claims"
+      ],
+      "correctIndex": 1,
+      "explanation": "The strongest selling is routine-based: ask a needs question, recommend 1\u20132 products that fit the goal, and explain simple usage for consistent results.",
+      "productRefs": []
+    },
+    {
+      "category": "haircare",
+      "skill": "sales",
+      "prompt": "A customer says \u201cI\u2019ve tried everything and nothing works.\u201d The best response is:",
+      "choices": [
+        "\u201cThen don\u2019t buy anything.\u201d",
+        "Acknowledge the frustration, reset expectations, and suggest a simple 2\u20133 step routine for 2\u20134 weeks",
+        "Guarantee results in 7 days",
+        "Blame the customer for using products wrong"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acknowledge + simplify. Most routines fail from inconsistency or too many products at once. Recommend a simple routine and a realistic timeframe.",
+      "productRefs": []
+    },
+    {
+      "category": "haircare",
+      "skill": "sales",
+      "prompt": "The best way to cross-sell without sounding pushy is to:",
+      "choices": [
+        "Recommend a complementary product that completes the routine (cleanse \u2192 treat \u2192 moisturize)",
+        "Upsell the most expensive item first",
+        "Offer 5 products at once",
+        "Avoid recommending anything extra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cross-selling works when it makes the routine easier and improves results. Keep it to one logical add-on.",
+      "productRefs": []
+    },
+    {
+      "category": "haircare",
+      "skill": "product",
+      "prompt": "For ends, flaking, dandruff. Dr. C. Tuna Hydrating Shampoo +52%, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for ends, flaking, dandruff. Dr. C. Tuna Hydrating Shampoo +52% focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000312"
+      ]
+    },
+    {
+      "category": "haircare",
+      "skill": "sales",
+      "prompt": "A customer asks about ends, flaking, dandruff. Dr. C. Tuna Hydrating Shampoo +52%: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000312"
+      ]
+    },
+    {
+      "category": "haircare",
+      "skill": "product",
+      "prompt": "For Dr. C. Tuna Volumizing Hair Conditioner, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Dr. C. Tuna Volumizing Hair Conditioner focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000316"
+      ]
+    },
+    {
+      "category": "haircare",
+      "skill": "sales",
+      "prompt": "A customer asks about Dr. C. Tuna Volumizing Hair Conditioner: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000316"
+      ]
+    },
+    {
+      "category": "haircare",
+      "skill": "product",
+      "prompt": "For and hair thinning. Dr. C. Tuna Reviving Hair Mask, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for and hair thinning. Dr. C. Tuna Reviving Hair Mask focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000310"
+      ]
+    },
+    {
+      "category": "haircare",
+      "skill": "sales",
+      "prompt": "A customer asks about and hair thinning. Dr. C. Tuna Reviving Hair Mask: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000310"
+      ]
+    },
+    {
+      "category": "haircare",
+      "skill": "product",
+      "prompt": "For Dr. C. Tuna Intensive Repair Hair Mask, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Dr. C. Tuna Intensive Repair Hair Mask focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000886"
+      ]
+    },
+    {
+      "category": "haircare",
+      "skill": "sales",
+      "prompt": "A customer asks about Dr. C. Tuna Intensive Repair Hair Mask: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000886"
+      ]
+    },
+    {
+      "category": "haircare",
+      "skill": "product",
+      "prompt": "For Dr. C. Tuna Hydrating Hair Mask, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Dr. C. Tuna Hydrating Hair Mask focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000314"
+      ]
+    },
+    {
+      "category": "haircare",
+      "skill": "sales",
+      "prompt": "A customer asks about Dr. C. Tuna Hydrating Hair Mask: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000314"
+      ]
+    },
+    {
+      "category": "men",
+      "skill": "sales",
+      "prompt": "Best practice when recommending products is to:",
+      "choices": [
+        "Promise instant results for everyone",
+        "Ask about the customer\u2019s goal and recommend a simple routine they can follow",
+        "Only talk about price",
+        "Use medical cure claims"
+      ],
+      "correctIndex": 1,
+      "explanation": "The strongest selling is routine-based: ask a needs question, recommend 1\u20132 products that fit the goal, and explain simple usage for consistent results.",
+      "productRefs": []
+    },
+    {
+      "category": "men",
+      "skill": "sales",
+      "prompt": "A customer says \u201cI\u2019ve tried everything and nothing works.\u201d The best response is:",
+      "choices": [
+        "\u201cThen don\u2019t buy anything.\u201d",
+        "Acknowledge the frustration, reset expectations, and suggest a simple 2\u20133 step routine for 2\u20134 weeks",
+        "Guarantee results in 7 days",
+        "Blame the customer for using products wrong"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acknowledge + simplify. Most routines fail from inconsistency or too many products at once. Recommend a simple routine and a realistic timeframe.",
+      "productRefs": []
+    },
+    {
+      "category": "men",
+      "skill": "sales",
+      "prompt": "The best way to cross-sell without sounding pushy is to:",
+      "choices": [
+        "Recommend a complementary product that completes the routine (cleanse \u2192 treat \u2192 moisturize)",
+        "Upsell the most expensive item first",
+        "Offer 5 products at once",
+        "Avoid recommending anything extra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cross-selling works when it makes the routine easier and improves results. Keep it to one logical add-on.",
+      "productRefs": []
+    },
+    {
+      "category": "men",
+      "skill": "product",
+      "prompt": "For All Skin Types Masculine Massage Oil, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for All Skin Types Masculine Massage Oil focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1001874"
+      ]
+    },
+    {
+      "category": "men",
+      "skill": "sales",
+      "prompt": "A customer asks about All Skin Types Masculine Massage Oil: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1001874"
+      ]
+    },
+    {
+      "category": "men",
+      "skill": "product",
+      "prompt": "For All Skin Types Masculine After Shave Balm, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for All Skin Types Masculine After Shave Balm focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1001835"
+      ]
+    },
+    {
+      "category": "men",
+      "skill": "sales",
+      "prompt": "A customer asks about All Skin Types Masculine After Shave Balm: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1001835"
+      ]
+    },
+    {
+      "category": "men",
+      "skill": "product",
+      "prompt": "For All Skin Types Masculine EDP For Men, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for All Skin Types Masculine EDP For Men focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1001834"
+      ]
+    },
+    {
+      "category": "men",
+      "skill": "sales",
+      "prompt": "A customer asks about All Skin Types Masculine EDP For Men: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1001834"
+      ]
+    },
+    {
+      "category": "men",
+      "skill": "product",
+      "prompt": "For Base Notes: Dark Amber, Tonka, and Musk Reina EDP for Women, which talking point is strongest?",
+      "choices": [
+        "It cures a disease",
+        "Who it\u2019s for + the main benefit + how to use consistently",
+        "Only mention the brand name",
+        "Avoid usage guidance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong talk tracks for Base Notes: Dark Amber, Tonka, and Musk Reina EDP for Women focus on the customer goal, clear benefit, and simple usage. Avoid medical claims and keep expectations realistic.",
+      "productRefs": [
+        "1000874"
+      ]
+    },
+    {
+      "category": "men",
+      "skill": "sales",
+      "prompt": "A customer asks about Base Notes: Dark Amber, Tonka, and Musk Reina EDP for Women: \u201cWill it work for me?\u201d The best response is:",
+      "choices": [
+        "\u201cYes, guaranteed.\u201d",
+        "Ask a quick qualifying question (goal/concern), explain what it\u2019s designed for, and recommend consistent use",
+        "\u201cNo idea.\u201d",
+        "\u201cIt works instantly for everyone.\u201d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qualify \u2192 match \u2192 guide. Clarify their goal, match the product\u2019s intended use, and explain how to use it for best results.",
+      "productRefs": [
+        "1000874"
+      ]
+    }
+  ]
+}

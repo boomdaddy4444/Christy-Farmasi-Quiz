@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Christine Delgado Farmasi Training</title>
+  <meta name="description" content="Interactive training platform for Farmasi product knowledge and sales techniques. Self-paced quizzes by category with instant feedback and progress tracking.">
+  <meta name="application-name" content="Christine Delgado Farmasi Training">
+  <meta property="og:title" content="Christine Delgado Farmasi Training">
+  <meta property="og:description" content="Interactive training platform for Farmasi product knowledge and sales techniques. Self-paced quizzes by category with instant feedback and progress tracking.">
+  <meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+</head>
+<body data-page="quiz">
+<header>
+  <div class="nav">
+    <a class="brand" href="index.html" aria-label="Christine Delgado Farmasi Training">
+      <span class="logo" aria-hidden="true"></span>
+      <span>Christine Delgado Farmasi Training</span>
+    </a>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="catalog.html">Catalog</a>
+      <a href="progress.html">Progress</a>
+    </nav>
+  </div>
+</header>
+
+<main data-page="quiz">
+  <div class="card pad">
+    <div style="display:flex; align-items:flex-start; justify-content:space-between; gap:12px; flex-wrap:wrap">
+      <div>
+        <h1 id="quizTitle" style="margin:0 0 8px 0">Quiz</h1>
+        <div id="quizMeta"></div>
+      </div>
+      <div style="display:flex; gap:10px; flex-wrap:wrap">
+        <a class="btn" href="index.html">Home</a>
+        <a class="btn" href="progress.html">Progress</a>
+      </div>
+    </div>
+
+    <div class="hr"></div>
+    <div class="progress"><div id="bar" style="width:0%"></div></div>
+
+    <div style="display:flex; align-items:center; justify-content:space-between; gap:10px; margin-top:12px; flex-wrap:wrap">
+      <div id="qIndex" class="muted">Question</div>
+      <div id="qSkill" class="chip">Skill</div>
+    </div>
+
+    <h2 id="qPrompt" class="quiz-question" style="margin-top:10px"></h2>
+
+    <div id="choices" style="margin-top:8px"></div>
+
+    <div id="explain" style="margin-top:10px"></div>
+
+    <div class="hr"></div>
+
+    <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center">
+      <button class="btn" id="prevBtn" type="button">← Previous</button>
+      <button class="btn" id="nextBtn" type="button">Next →</button>
+      <button class="btn primary" id="finishBtn" type="button">Finish &amp; Save Score</button>
+    </div>
+
+    <p class="muted" style="margin-top:10px">Your answers are saved only after you click <b>Finish &amp; Save Score</b>.</p>
+  </div>
+
+  <div id="quizRoot"></div>
+</main>
+<script src="assets/js/app.js"></script>
+</body></html>

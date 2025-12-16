@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Christine Delgado Farmasi Training</title>
+  <meta name="description" content="Interactive training platform for Farmasi product knowledge and sales techniques. Self-paced quizzes by category with instant feedback and progress tracking.">
+  <meta name="application-name" content="Christine Delgado Farmasi Training">
+  <meta property="og:title" content="Christine Delgado Farmasi Training">
+  <meta property="og:description" content="Interactive training platform for Farmasi product knowledge and sales techniques. Self-paced quizzes by category with instant feedback and progress tracking.">
+  <meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+</head>
+<body data-page="home">
+<header>
+  <div class="nav">
+    <a class="brand" href="index.html" aria-label="Christine Delgado Farmasi Training">
+      <span class="logo" aria-hidden="true"></span>
+      <span>Christine Delgado Farmasi Training</span>
+    </a>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="catalog.html">Catalog</a>
+      <a href="progress.html">Progress</a>
+    </nav>
+  </div>
+</header>
+
+<main data-page="home">
+  <section class="hero">
+    <div class="card pad">
+      <h1>Christine Delgado Farmasi Training</h1>
+      <p>Interactive training platform for Farmasi product knowledge and sales techniques. Self-paced quizzes by category with instant feedback and progress tracking.</p>
+      <div class="btnrow">
+        <a class="btn primary" href="catalog.html">Open Catalog</a>
+        <a class="btn" href="progress.html">View Progress</a>
+        <button class="btn" id="resetBtn" type="button">Reset Progress</button>
+      </div>
+      <div class="hr"></div>
+      <div class="badge"><span><b>Tip:</b> Use <kbd>Search</kbd> inside each category to quickly study product talking points.</span></div>
+    </div>
+    <div class="card pad">
+      <h2>How this training works</h2>
+      <p><b>1)</b> Pick a category → review products and key benefits.</p>
+      <p><b>2)</b> Start the quiz → click answers to get instant feedback.</p>
+      <p><b>3)</b> Read explanations → use them as real sales scripts.</p>
+      <div class="hr"></div>
+      <div class="badge"><span>Progress is saved on this device via local storage.</span></div>
+    </div>
+  </section>
+
+  <section style="margin-top:16px">
+    <h2 style="margin-bottom:10px">Training Categories</h2>
+    <div class="grid" id="categoryGrid"></div>
+  </section>
+
+  <div class="footer">
+    Built for static hosting (GitHub Pages). Data lives in <kbd>assets/data/</kbd> for easy updates.
+  </div>
+</main>
+
+<script src="assets/js/app.js"></script>
+</body></html>
