@@ -1,0 +1,22 @@
+
+/* === HEADER AVATAR PATCH === */
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.brand .logo {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background-image: url('../img/christy-avatar.jpg');
+  background-size: cover;
+  background-position: center;
+  border: 2px solid rgba(255,255,255,0.65);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.25);
+}
+
+.brand span {
+  font-weight: 600;
+}
